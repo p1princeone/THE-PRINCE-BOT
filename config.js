@@ -39,8 +39,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'PЯINCΣ-BOT-MÐ'
-global.princebot = '🛡️ᑭᖇIᑎᑕᕮ ᗷOT ᗰᗪ🛡️'
+global.botname = 'PRINCEONE'
+global.princebot = 'Princeone'
 global.packname = 'Prince♥️' 
 global.author = 'Prince♥️' 
 global.princeig = 'https://www.instagram.com' 
